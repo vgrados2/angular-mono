@@ -12,5 +12,6 @@
   },
   "devDependencies": {
     "second": "*"
-  }
+  },
+  "gitHead": "b51b53049f1db3c3a7ab3836b9cbd025933f8e82"
 }
