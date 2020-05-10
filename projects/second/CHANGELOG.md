@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.8](https://github.com/vgrados2/angular-mono/compare/second@0.2.7...second@0.2.8) (2020-05-10)
+
+**Note:** Version bump only for package second
+
+
+
+
+
 ## [0.2.7](https://github.com/vgrados2/angular-mono/compare/second@0.2.6...second@0.2.7) (2020-05-10)
 
 **Note:** Version bump only for package second
