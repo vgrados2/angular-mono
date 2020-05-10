@@ -3,11 +3,11 @@
   "version": "0.1.4",
   "scripts": {
     "build": "ng build linked",
-    "postpublish": "rm -rf dist/"
+    "postpublish": "rimraf dist/"
   },
   "peerDependencies": {
     "@angular/common": "^8.2.4",
     "@angular/core": "^8.2.4"
   },
-  "gitHead": "ef33f89f241f4abb827ce09619a486a3b22b4e14"
+  "gitHead": "8ed027801a38d47d49e5fbce3abf8fbb57dda8f4"
 }
