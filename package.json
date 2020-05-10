@@ -8,8 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-lerna": "npx lerna run build",
-    "publish-lerna": "npx lerna publish  --contents dist"
+    "build-lerna": "lerna run build",
+    "publish-lerna": "lerna publish  --contents dist"
   },
   "private": true,
   "dependencies": {
