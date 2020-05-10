@@ -7,11 +7,7 @@
   },
   "peerDependencies": {
     "@angular/common": "^8.2.4",
-    "@angular/core": "^8.2.4",
-    "second": "*"
-  },
-  "devDependencies": {
-    "second": "*"
+    "@angular/core": "^8.2.4"
   },
   "gitHead": "b51b53049f1db3c3a7ab3836b9cbd025933f8e82"
 }
