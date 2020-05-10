@@ -3,7 +3,7 @@
   "version": "0.2.5",
   "scripts": {
     "build": "ng build second",
-    "postpublish": "rm -rf dist/"
+    "postpublish": "rimraf dist/"
   },
   "peerDependencies": {
     "@angular/common": "^8.2.4",
