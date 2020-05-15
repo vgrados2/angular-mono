@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.8](https://github.com/vgrados2/angular-mono/compare/linked@0.1.7...linked@0.1.8) (2020-05-15)
+
+**Note:** Version bump only for package linked
+
+
+
+
+
 ## [0.1.7](https://github.com/vgrados2/angular-mono/compare/linked@0.1.6...linked@0.1.7) (2020-05-10)
 
 **Note:** Version bump only for package linked
