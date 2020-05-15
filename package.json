@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "build-lerna": "lerna run build",
-    "publish-lerna": "lerna publish  --contents dist"
+    "publish-lerna": "lerna publish  --contents dist --yes"
   },
   "private": true,
   "dependencies": {
